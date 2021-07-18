@@ -1,11 +1,10 @@
 # KeebClack
-## Branches
-* Legacy - This was the original project, for a keyboard marketplace. This has been put on hold as I do not want to pursue this project anymore. Codebase is left up for reference and possible revamp
-* Master - Current branch. Keyboard collection list
+* The project is currently facing major revisions, the legacy branch has been deleted from the repository
 
-### Technologies
-* React.TS Frontend
-* ASP.NET Core Web API Backend
+# Project Objectives
+* Create a platform to showcase keyboard collection value and serve as a trading platform
 
-### Future Iterations
-* Changing from React to Angularr
+# Stack changes:
+* Angular
+* ASP.NET
+* PostgreSQL/ MySQL
